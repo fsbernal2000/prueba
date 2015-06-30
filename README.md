@@ -18,6 +18,6 @@
 
 - - - -
 
-![picture alt](https://www.dropbox.com/s/52jqqyh9zm9ryxl/picjumbo.com_HNCK3558.jpg "Desarrollo de servicios en la nube")
+![picture alt](http://www.freejpg.com.ar/asset/900/c4/c4df/F100007662.jpg "Desarrollo de servicios en la nube")
 
 **Autor : Felipe Sánchez Bernal**
